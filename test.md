@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Purpose](#purpose)
-- - [Bridging the Skills Gap Between UWB Coursework and Entry-Level Data Analyst Requirements](#bridging-the-skills-gap-between-uwb-coursework-and-entry-level-data-analyst-requirements)
+- [Bridging the Skills Gap Between UWB Coursework and Entry-Level Data Analyst Requirements](#bridging-the-skills-gap-between-uwb-coursework-and-entry-level-data-analyst-requirements)
 - [Learn Python and SQL Outside of Required Coursework](#learn-python-and-sql-outside-of-required-coursework)
   - [Why Employers Expect More Than R and Tableau](#why-employers-expect-more-than-r-and-tableau)
   - [Course Suggestions](#course-suggestions)
@@ -31,11 +31,11 @@ You're a UWB Data Visualization student who knows Tableau dashboards, R analysis
 
 ---
 
-## Bridging the Skills Gap Between UWB Coursework and Entry-Level Data Analyst Requirements
+## Figure 1. Bridging the Skills Gap Between UWB Coursework and Entry-Level Data Analyst Requirements
 
 ![](https://raw.githubusercontent.com/drewung/CSS475/main/image.png)
 
-*Figure 1. A two-circle Venn diagram comparing skills taught in the UWB Data Visualization curriculum (Tableau, R, Java, GitHub basics) with skills required in entry-level data analyst roles (Python, SQL, Power BI). Logos adapted from [6]–[12].*
+*Logos adapted from [6]–[12].*
 
 ---
 
