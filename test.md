@@ -43,7 +43,7 @@ You're a UWB Data Visualization student who knows Tableau dashboards, R analysis
 
 ### Why Employers Expect More Than R and Tableau
 
-Python and SQL appear in the majority of data analyst job descriptions [^1]. While Tableau and R are valuable for visualization and statistical work, Python is the dominant language for data cleaning, automation, and pipelines [2]. SQL is the primary way analysts query databases at nearly every company. Knowing only the tools your curriculum covers puts you at a disadvantage the moment your resume lands next to someone who learned both.
+Python and SQL appear in the majority of data analyst job descriptions ^1. While Tableau and R are valuable for visualization and statistical work, Python is the dominant language for data cleaning, automation, and pipelines [2]. SQL is the primary way analysts query databases at nearly every company. Knowing only the tools your curriculum covers puts you at a disadvantage the moment your resume lands next to someone who learned both.
 
 Power BI has become the dominant dashboarding tool in corporate environments, with many companies choosing it over Tableau due to its lower cost and integration with Microsoft 365 [2].
 
