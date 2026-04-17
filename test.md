@@ -31,11 +31,11 @@ You're a UWB Data Visualization student who knows Tableau dashboards, R analysis
 
 ---
 
-## Figure 1. Bridging the Skills Gap Between UWB Coursework and Entry-Level Data Analyst Requirements
+## Bridging the Skills Gap Between UWB Coursework and Entry-Level Data Analyst Requirements
 
 ![](https://raw.githubusercontent.com/drewung/CSS475/main/image.png)
 
-*Logos adapted from [6]–[12].*
+*Figure 1. Logos adapted from [6]–[12].*
 
 ---
 
